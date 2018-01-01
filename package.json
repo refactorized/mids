@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/refactorized/mids/issues"
   },
-  "homepage": "https://github.com/refactorized/mids#readme"
+  "homepage": "https://github.com/refactorized/mids#readme",
+  "dependencies": {
+    "midi": "^0.9.5",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "node-watch": "^0.5.5",
+    "require-nocache": "^1.0.0",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  }
 }
