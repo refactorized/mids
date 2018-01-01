@@ -1,0 +1,22 @@
+{
+  "name": "mids",
+  "version": "1.0.0",
+  "description": "midi stuff i guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refactorized/mids.git"
+  },
+  "keywords": [
+    "midi"
+  ],
+  "author": "adam tolley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refactorized/mids/issues"
+  },
+  "homepage": "https://github.com/refactorized/mids#readme"
+}
